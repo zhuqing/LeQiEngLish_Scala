@@ -1,0 +1,4 @@
+[debug] Copy resource mappings: 
+[debug] 	(/Users/zhuleqi/GitHub/LeQiEnglish/conf/application.conf,/Users/zhuleqi/GitHub/LeQiEnglish/target/scala-2.11/classes/application.conf)
+[debug] 	(/Users/zhuleqi/GitHub/LeQiEnglish/conf/logback.xml,/Users/zhuleqi/GitHub/LeQiEnglish/target/scala-2.11/classes/logback.xml)
+[debug] 	(/Users/zhuleqi/GitHub/LeQiEnglish/conf/routes,/Users/zhuleqi/GitHub/LeQiEnglish/target/scala-2.11/classes/routes)
